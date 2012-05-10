@@ -1,0 +1,33 @@
+
+
+KLD> Kaleidoscope
+KLD-PLG> Kaleidoscope:Poliglotta
+  lorem
+  ipsum
+  dolor
+  sit
+  amet
+PLG> Direct second-level Poliglotta
+SCL-CSK/CompSci> Full-spec sub-project
+  with multiple-lines
+  just because
+PWN>No separator space
+>Spec separator with anon project spec
+psk> lower-cased spec
+XXX> Bogus spec
+No spec, at all.
+PWN DD> Bad spec with extra space
+PWN > Spec with accidental pre-separator space
+Default
+  with
+  
+  extra
+ 
+  empty
+
+  lines
+  
+  
+
+Extra
+PWN>Last line
